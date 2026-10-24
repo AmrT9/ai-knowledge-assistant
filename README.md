@@ -1,7 +1,7 @@
 # 🤖 AI Knowledge Assistant
 
 **A multi-source RAG chatbot that answers questions from your own documents and remembers the conversation.**
-
+Demo video : https://drive.google.com/file/d/1KomnYyCDVsa9sENyuBwZuCmGB0L-J_H3/view?usp=drive_link
 
 
 ## 1. Problem
